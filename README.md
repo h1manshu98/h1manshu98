@@ -2,7 +2,9 @@
 - 🏫 Persuing my graduation from IIIT-BHOPAL in Computer Science stream
 - 👀 I’m interested in Software, Web Appilcation and Front-End Developement
 - 🌱 I’m currently learning Advanced [Java,JavaScript] and Basic [Spring MVC, PHP Ajax]
-- 📫 You can reach me via [Email : 007himanshu98ahirwar@gmail.com] [LinkedIn : https://www.linkedin.com/in/himanshu-ahirwar-b59133212 ]
+- 📫 You can reach me via :-
+-  [Email : 007himanshu98ahirwar@gmail.com]
+-  [LinkedIn : https://www.linkedin.com/in/himanshu-ahirwar-b59133212 ]
 
 <!---
 h1manshu98/h1manshu98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
