@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Himanshu Ahirwar
-- 👀 I’m interested in Software and Front-End Developement
+- 🏫 Persuing my graduation from IIIT-BHOPAL in Computer Science stream
+- 👀 I’m interested in Software, Web Appilcation and Front-End Developement
 - 🌱 I’m currently learning Advanced [Java,JavaScript] and Basic [Spring MVC, PHP Ajax]
 - 📫 You can reach me via [Email : 007himanshu98ahirwar@gmail.com] [LinkedIn : https://www.linkedin.com/in/himanshu-ahirwar-b59133212 ]
 
