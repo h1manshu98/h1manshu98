@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Himanshu Ahirwar
-- 🏫 Persuing my graduation from IIIT-BHOPAL in Computer Science stream
+- 🏫 Pursuing my graduation from IIIT-BHOPAL in Computer Science stream
 - 👀 I’m interested in Software, Web Appilcation and Front-End Developement
 - 🌱 I’m currently learning Advanced [Java,JavaScript] and Basic [Spring MVC, PHP Ajax]
 - 📫 You can reach me via :-
