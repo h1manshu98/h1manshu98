@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Himanshu Ahirwar
-- 🏫 Pursuing my graduation from IIIT-BHOPAL in Computer Science stream
-- 👀 I’m interested in Software, Web Appilcation and Front-End Developement
-- 🌱 I’m currently learning Advanced [Java,JavaScript] and Basic [Spring MVC, PHP Ajax]
-- 📫 You can reach me via :-
+- 🏫 IIIT-BHOPAL UnderGrad in Computer Science stream
+- 👀 I’m interested in DevOps and Software Developement
+- 🌱 I’m currently learning Cloud Technologies like AWS, Terraform, Shell Scripting and related tech stacks
+- 📫 You can reach out to me via :-
 -  [Email : 007himanshu98ahirwar@gmail.com]
 -  [LinkedIn : https://www.linkedin.com/in/himanshu-ahirwar-b59133212 ]
 
