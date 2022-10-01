@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Himanshu Ahirwar
 - 🏫 IIIT-BHOPAL UnderGrad in Computer Science stream
 - 👀 I’m interested in DevOps and Software Developement
-- 🌱 I’m currently learning Cloud Technologies like AWS, Terraform, Shell Scripting and related tech stacks
+- 🌱 I’m AWS Certified DevOps engineer with practical knowledge of Terraform, Jenkins, Ansible, Docker, Bash and plenty of more.
 - 📫 You can reach out to me via :-
 -  [Email : 007himanshu98ahirwar@gmail.com]
 -  [LinkedIn : https://www.linkedin.com/in/himanshu-ahirwar-b59133212 ]
