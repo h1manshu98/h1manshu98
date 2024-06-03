@@ -8,7 +8,7 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
       <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github"></picture></a>
   
-  <a href="https://www.linkedin.com/in/himanshu-ahirwar-b59133212/">
+  <a href="https://www.linkedin.com/in/a10himanshu/">
     <img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="https://cdn.simpleicons.org/linkedin"></a>
     
   <a href="https://medium.com/@hk10ahr">
