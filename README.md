@@ -3,7 +3,9 @@
 **🚀 DevOps Engineer | Cloud Enthusiast | Automation Lover**
 
 I’ve been in DevOps for over 4 years, managing and optimizing infrastructure across multiple clouds:
+
 **☁️ AWS • 💼 Azure • 🏛️ Oracle Cloud**
+
 …and some developer-friendly ones like DigitalOcean, Vultr, Hetzner, Linode, and more!
 
 ### 🧠 What I Do
